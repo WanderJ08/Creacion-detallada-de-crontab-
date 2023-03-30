@@ -1,8 +1,6 @@
 <center> <h1>SISTEMAS OPERATIVOS</h1> </center> 
 <center> <h3>Wander Jerez 2021-0990</h3> </center>
 
-# Nota
-*Si no ve las imagenes tiene que descargar el repositorio, es un error de github por asignarle las imagenes con los nombres de imagen1,2 y asi*
 
 *-Para crear mi CRON, me dirigí a la terminal de linux (Ubuntu) y puse el comando contrab -e, el cual me permitira crear un CRON y me muestra una serie de instrucciones para la creacion de este, instrucciones las cuales podemos borrar.*
 
